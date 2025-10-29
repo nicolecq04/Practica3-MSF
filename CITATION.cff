@@ -10,13 +10,13 @@ authors:
     family-names: Camacho Quezada
     email: L222117472@tectijuana.edu.mx
     affiliation: TecNM / ITT
-repository-code: 'https://github.com/nicolecq04/Practica0-MSF'
+repository-code: 'https://github.com/nicolecq04/Practica3-MSF'
 keywords:
   - 'Circuito RLC '
-  - Controlador PID
+  - Controlador PI
   - Modelo matemático
-  - Sistema respiratorio
+  - Sistema musculoesquelético
   - Simulaciones numéricas
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2025-09-17'
+date-released: '2025-10-29'
